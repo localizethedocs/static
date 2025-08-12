@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400"
+   height="400"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="ros-white.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="ros-white.png"
+   inkscape:export-xdpi="122.88"
+   inkscape:export-ydpi="122.88"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.037182"
+     inkscape:cx="214.52358"
+     inkscape:cy="260.80283"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showgrid="true">
+    <inkscape:grid
+       id="grid9"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Mark">
+    <g
+       id="g9"
+       inkscape:label="Icon"
+       transform="matrix(0.39370079,0,0,0.39370079,-1.5748032,-1.5748032)"
+       sodipodi:insensitive="true">
+      <path
+         id="circle1"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 236,120 A 116,116 0 0 1 120,236 116,116 0 0 1 4,120 116,116 0 0 1 120,4 116,116 0 0 1 236,120 Z" />
+      <path
+         id="circle2"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 628,120 A 116,116 0 0 1 512,236 116,116 0 0 1 396,120 116,116 0 0 1 512,4 116,116 0 0 1 628,120 Z" />
+      <path
+         id="circle3"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 1020,120 A 116,116 0 0 1 904,236 116,116 0 0 1 788,120 116,116 0 0 1 904,4 116,116 0 0 1 1020,120 Z" />
+      <path
+         id="circle4"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 236,512 A 116,116 0 0 1 120,628 116,116 0 0 1 4,512 116,116 0 0 1 120,396 116,116 0 0 1 236,512 Z" />
+      <path
+         id="circle5"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 628,512 A 116,116 0 0 1 512,628 116,116 0 0 1 396,512 116,116 0 0 1 512,396 116,116 0 0 1 628,512 Z" />
+      <path
+         id="circle6"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 1020,512 A 116,116 0 0 1 904,628 116,116 0 0 1 788,512 116,116 0 0 1 904,396 116,116 0 0 1 1020,512 Z" />
+      <path
+         id="circle7"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 236,904 A 116,116 0 0 1 120,1020 116,116 0 0 1 4,904 116,116 0 0 1 120,788 116,116 0 0 1 236,904 Z" />
+      <path
+         id="circle8"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 628,904 A 116,116 0 0 1 512,1020 116,116 0 0 1 396,904 116,116 0 0 1 512,788 116,116 0 0 1 628,904 Z" />
+      <path
+         id="circle9"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 1020,904 A 116,116 0 0 1 904,1020 116,116 0 0 1 788,904 116,116 0 0 1 904,788 116,116 0 0 1 1020,904 Z" />
+    </g>
+  </g>
+</svg>

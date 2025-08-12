@@ -28,5 +28,17 @@
       <td><a href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg">Link</a></td>
       <td>By <a href="https://www.python.org/">Python.org</a>, licensed under <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL v2.0 or later</a>.</td>
     </tr>
+    <tr>
+      <td><code>mark/ros-dark.svg</code></td>
+      <td><img src="mark/ros-dark.svg" alt="ros-dark" width="100"/></td>
+      <td><a href="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg">Link</a></td>
+      <td>By <a href="https://www.openrobotics.org/">Open Robotics</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>mark/ros-white.svg</code></td>
+      <td><img src="mark/ros-white.svg" alt="ros-white" width="100"/></td>
+      <td><a href="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg">Link</a></td>
+      <td>By <a href="https://www.openrobotics.org/">Open Robotics</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</td>
+    </tr>
   </tbody>
 </table>
