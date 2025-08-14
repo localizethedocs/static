@@ -23,6 +23,12 @@
       <td>By <a href="http://www.isc.tamu.edu/~lewing/">Larry Ewing</a>, <a href="http://www.home.unix-ag.org/simon/">Simon Budig</a>, and <a href="https://github.com/garrett/Tux">Garrett LeSage</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed">CC0 1.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/numpy.svg</code></td>
+      <td><img src="mark/numpy.svg" alt="numpy" width="100"/></td>
+      <td><a href="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg">Link</a></td>
+      <td>By <a href="https://github.com/isabela-pf/">Isabela Presedo-Floyd</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/python.svg</code></td>
       <td><img src="mark/python.svg" alt="python" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg">Link</a></td>
