@@ -17,6 +17,12 @@
       <td>By <a href="https://cmake.org/">CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/flatpak.svg</code></td>
+      <td><img src="mark/flatpak.svg" alt="flatpak" width="100"/></td>
+      <td><a href="https://en.m.wikipedia.org/wiki/File:Flatpak_Logo.svg">Link</a></td>
+      <td>By <a href="https://flatpak.org/">Flatpak</a>, licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/linux.svg</code></td>
       <td><img src="mark/linux.svg" alt="linux" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">Link</a></td>
