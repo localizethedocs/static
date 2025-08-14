@@ -40,5 +40,17 @@
       <td><a href="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg">Link</a></td>
       <td>By <a href="https://www.openrobotics.org/">Open Robotics</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</td>
     </tr>
+    <tr>
+      <td><code>mark/rtd-dark.svg</code></td>
+      <td><img src="mark/rtd-dark.svg" alt="rtd-dark" width="100"/></td>
+      <td><a href="https://brand-guidelines.readthedocs.org/branding.html">Link</a></td>
+      <td>By <a href="https://about.readthedocs.com/">Read the Docs</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>mark/rtd-light.svg</code></td>
+      <td><img src="mark/rtd-light.svg" alt="rtd-light" width="100"/></td>
+      <td><a href="https://brand-guidelines.readthedocs.org/branding.html">Link</a></td>
+      <td>By <a href="https://about.readthedocs.com/">Read the Docs</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
   </tbody>
 </table>
