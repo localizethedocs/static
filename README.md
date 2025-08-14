@@ -11,6 +11,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><code>mark/appimage.svg</code></td>
+      <td><img src="mark/appimage.svg" alt="appimage" width="100"/></td>
+      <td><a href="https://commons.wikimedia.org/wiki/File:App-image-logo.svg">Link</a></td>
+      <td>By Simon Peter, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/cmake.svg</code></td>
       <td><img src="mark/cmake.svg" alt="cmake" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Cmake.svg">Link</a></td>
