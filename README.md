@@ -1,4 +1,6 @@
-# static
+<div align="center">
+<h1 id="static-resources">Static Resources</h1>
+</div>
 
 <table align="center">
   <thead>
