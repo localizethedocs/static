@@ -25,6 +25,12 @@
       <td>By <a href="https://cmake.org/">CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/conan.svg</code></td>
+      <td><img src="mark/conan.svg" alt="conan" width="100"/></td>
+      <td><a href="https://github.com/conan-io/web/blob/main/conanio/public/conan-downloads-logo.svg">Link</a></td>
+      <td>By <a href="https://conan.io/">Conan.io</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/flatpak.svg</code></td>
       <td><img src="mark/flatpak.svg" alt="flatpak" width="100"/></td>
       <td><a href="https://en.m.wikipedia.org/wiki/File:Flatpak_Logo.svg">Link</a></td>
