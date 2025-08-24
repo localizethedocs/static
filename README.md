@@ -78,5 +78,11 @@
       <td><a href="https://brand-guidelines.readthedocs.org/branding.html">Link</a></td>
       <td>By <a href="https://about.readthedocs.com/">Read the Docs</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
+    <tr>
+      <td><code>mark/setuptools.svg</code></td>
+      <td><img src="mark/setuptools.svg" alt="setuptools" width="100"/></td>
+      <td><a href="https://setuptools.pypa.io/en/stable/artwork.html">Link</a></td>
+      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
   </tbody>
 </table>
