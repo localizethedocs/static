@@ -55,6 +55,12 @@
       <td>By <a href="https://github.com/isabela-pf/">Isabela Presedo-Floyd</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/pooch.svg</code></td>
+      <td><img src="mark/pooch.svg" alt="pooch" width="100"/></td>
+      <td><a href="https://github.com/fatiando/logo">Link</a></td>
+      <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/python.svg</code></td>
       <td><img src="mark/python.svg" alt="python" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg">Link</a></td>
