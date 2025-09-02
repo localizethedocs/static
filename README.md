@@ -43,6 +43,12 @@
       <td>By <a href="https://gdal.org/">GDAL Team</a>, licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/harmonica.svg</code></td>
+      <td><img src="mark/harmonica.svg" alt="harmonica" width="100"/></td>
+      <td><a href="https://github.com/fatiando/logo">Link</a></td>
+      <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/linux.svg</code></td>
       <td><img src="mark/linux.svg" alt="linux" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">Link</a></td>
