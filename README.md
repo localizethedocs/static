@@ -37,6 +37,12 @@
       <td>By <a href="https://flatpak.org/">Flatpak</a>, licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/gdal.svg</code></td>
+      <td><img src="mark/gdal.svg" alt="gdal" width="100"/></td>
+      <td><a href="https://commons.wikimedia.org/wiki/File:GDALLogoColor.svg">Link</a></td>
+      <td>By <a href="https://gdal.org/">GDAL Team</a>, licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/linux.svg</code></td>
       <td><img src="mark/linux.svg" alt="linux" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">Link</a></td>
