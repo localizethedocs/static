@@ -102,5 +102,17 @@
       <td><a href="https://setuptools.pypa.io/en/stable/artwork.html">Link</a></td>
       <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
+    <tr>
+      <td><code>mark/sphinx-dark.svg</code></td>
+      <td><img src="mark/sphinx-dark.svg" alt="sphinx-dark" width="100"/></td>
+      <td><a href="https://github.com/sphinx-doc/sphinx/blob/8878bee000c85c118b9be4b31d5baf7e3f25cc5f/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
+      <td>By <a href="https://www.sphinx-doc.org/">Sphinx Team</a>, licensed under <a href="https://opensource.org/license/bsd-2-clause/">BSD 2-Clause</a>.</td>
+    </tr>
+    <tr>
+      <td><code>mark/sphinx-white.svg</code></td>
+      <td><img src="mark/sphinx-white.svg" alt="sphinx-white" width="100"/></td>
+      <td><a href="https://github.com/sphinx-doc/sphinx/blob/8878bee000c85c118b9be4b31d5baf7e3f25cc5f/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
+      <td>By <a href="https://www.sphinx-doc.org/">Sphinx Team</a>, licensed under <a href="https://opensource.org/license/bsd-2-clause/">BSD 2-Clause</a>.</td>
+    </tr>
   </tbody>
 </table>
