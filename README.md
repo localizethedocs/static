@@ -25,6 +25,18 @@
       <td>By <a href="https://cmake.org/">CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/colcon-blue.svg</code></td>
+      <td><img src="mark/colcon-blue.svg" alt="colcon-blue" width="100"/></td>
+      <td><a href="https://github.com/colcon/colcon.readthedocs.org/blob/b2573a27f104912294034bf59144591e6a83328b/_static/colcon.svg">Link</a></td>
+      <td>By <a href="https://github.com/colcon">Colcon Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>mark/colcon-white.svg</code></td>
+      <td><img src="mark/colcon-white.svg" alt="colcon-white" width="100"/></td>
+      <td><a href="https://github.com/colcon/colcon.readthedocs.org/blob/b2573a27f104912294034bf59144591e6a83328b/_static/colcon.svg">Link</a></td>
+      <td>By <a href="https://github.com/colcon">Colcon Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/conan.svg</code></td>
       <td><img src="mark/conan.svg" alt="conan" width="100"/></td>
       <td><a href="https://github.com/conan-io/web/blob/main/conanio/public/conan-downloads-logo.svg">Link</a></td>
