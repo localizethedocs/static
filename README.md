@@ -73,6 +73,12 @@
       <td>By <a href="https://www.python.org/">Python.org</a>, licensed under <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL v2.0 or later</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/qemu.svg</code></td>
+      <td><img src="mark/qemu.svg" alt="qemu" width="100"/></td>
+      <td><a href="https://gitlab.com/qemu-project/qemu/-/blob/a8260d3876389eb52ca5c62ed4d80cdb7e025c85/ui/icons/qemu.svg">Link</a></td>
+      <td>By <a href="https://github.com/benoit-canet">Benoît Canet</a>, licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/ros-dark.svg</code></td>
       <td><img src="mark/ros-dark.svg" alt="ros-dark" width="100"/></td>
       <td><a href="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg">Link</a></td>
