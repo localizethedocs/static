@@ -31,6 +31,12 @@
       <td>By <a href="https://conan.io/">Conan.io</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/emscripten.svg</code></td>
+      <td><img src="mark/emscripten.svg" alt="emscripten" width="100"/></td>
+      <td><a href="https://github.com/emscripten-core/emscripten/blob/93327152a04ced7889919a08d5255a4be84d200b/media/logo.svg">Link</a></td>
+      <td>By <a href="https://emscripten.org/">Emscripten Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/flatpak.svg</code></td>
       <td><img src="mark/flatpak.svg" alt="flatpak" width="100"/></td>
       <td><a href="https://en.m.wikipedia.org/wiki/File:Flatpak_Logo.svg">Link</a></td>
