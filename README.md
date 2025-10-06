@@ -31,6 +31,12 @@
       <td>By <a href="https://conan.io/">Conan.io</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/editorconfig.svg</code></td>
+      <td><img src="mark/editorconfig.svg" alt="editorconfig" width="100"/></td>
+      <td><a href="https://github.com/editorconfig/editorconfig/blob/4e1fdff8e2c91bd59b5216368c1513a8f7abd5d6/assets/EditorConfig_Logo.svg">Link</a></td>
+      <td>By <a href="https://editorconfig.org/">EditorConfig Team</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/emscripten.svg</code></td>
       <td><img src="mark/emscripten.svg" alt="emscripten" width="100"/></td>
       <td><a href="https://github.com/emscripten-core/emscripten/blob/93327152a04ced7889919a08d5255a4be84d200b/media/logo.svg">Link</a></td>
