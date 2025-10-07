@@ -67,6 +67,12 @@
       <td>By <a href="http://www.isc.tamu.edu/~lewing/">Larry Ewing</a>, <a href="http://www.home.unix-ag.org/simon/">Simon Budig</a>, and <a href="https://github.com/garrett/Tux">Garrett LeSage</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed">CC0 1.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/nixos.svg</code></td>
+      <td><img src="mark/nixos.svg" alt="nixos" width="100"/></td>
+      <td><a href="https://brand.nixos.org/logos/nixos-logomark-default-gradient-recommended.svg">Link</a></td>
+      <td>"NixOS Logo" by <a href="https://github.com/simon-frankau">Simon Frankau</a>, <a href="https://github.com/timbertson">Tim Cuthbertson</a>, and <a href="https://github.com/djacu">Daniel Baker</a> (maintained by the <a href="https://nixos.org/community/teams/marketing/">NixOS Marketing Team</a>), from <a href="https://github.com/NixOS/branding">nixos/branding</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/numpy.svg</code></td>
       <td><img src="mark/numpy.svg" alt="numpy" width="100"/></td>
       <td><a href="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg">Link</a></td>
