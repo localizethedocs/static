@@ -85,6 +85,12 @@
       <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/pytest.svg</code></td>
+      <td><img src="mark/pytest.svg" alt="pytest" width="100"/></td>
+      <td><a href="https://github.com/pytest-dev/design/blob/43bbb9b7c2fd484a60c6922b903ca76796b3f45b/pytest_logo/pytest_logo_notext.svg">Link</a></td>
+      <td>By <a href="https://pytest.org/">Pytest Team</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/python.svg</code></td>
       <td><img src="mark/python.svg" alt="python" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg">Link</a></td>
