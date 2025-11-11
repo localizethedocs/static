@@ -90,6 +90,12 @@
       <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/libuv.svg</code></td>
+      <td><img src="mark/libuv.svg" alt="libuv" width="100"/></td>
+      <td><a href="https://github.com/libuv/libuv/blob/a499b737bf58b076c0c51868a5095c7c29be7c32/img/logos.svg">Link</a></td>
+      <td>By <a href="https://github.com/saghul">Saúl Ibarra Corretgé</a> and <a href="https://github.com/indutny">Fedor Indutny</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/linux.svg</code></td>
       <td><img src="mark/linux.svg" alt="linux" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">Link</a></td>
