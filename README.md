@@ -168,6 +168,12 @@
       <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/sglang.svg</code></td>
+      <td><img src="mark/sglang.svg" alt="sglang" width="100"/></td>
+      <td><a href="https://github.com/sgl-project/sglang/blob/7a1f7fc5049d4fd5b3adc88fe48466fccbe676d8/assets/logo_square.svg">Link</a></td>
+      <td>By <a href="https://github.com/sgl-project">The SGLang Team</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/solidity-dark.svg</code></td>
       <td><img src="mark/solidity-dark.svg" alt="solidity-dark" width="100"/></td>
       <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo.svg">Link</a></td>
