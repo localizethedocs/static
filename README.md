@@ -102,6 +102,18 @@
       <td>By <a href="http://www.isc.tamu.edu/~lewing/">Larry Ewing</a>, <a href="http://www.home.unix-ag.org/simon/">Simon Budig</a>, and <a href="https://github.com/garrett/Tux">Garrett LeSage</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed">CC0 1.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/mdbook-black.svg</code></td>
+      <td><img src="mark/mdbook-black.svg" alt="mdbook-black" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/mdBook/blob/308768655929ec0d5ab440ddb71cae8a0e14fccb/crates/mdbook-html/front-end/images/favicon.svg">Link</a></td>
+      <td>By Dave Gandy, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>mark/mdbook-white.svg</code></td>
+      <td><img src="mark/mdbook-white.svg" alt="mdbook-white" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/mdBook/blob/308768655929ec0d5ab440ddb71cae8a0e14fccb/crates/mdbook-html/front-end/images/favicon.svg">Link</a></td>
+      <td>By Dave Gandy, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/nixos.svg</code></td>
       <td><img src="mark/nixos.svg" alt="nixos" width="100"/></td>
       <td><a href="https://brand.nixos.org/logos/nixos-logomark-default-gradient-recommended.svg">Link</a></td>
