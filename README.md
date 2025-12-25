@@ -174,6 +174,18 @@
       <td>By <a href="https://about.readthedocs.com/">Read the Docs</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/rust-black.svg</code></td>
+      <td><img src="mark/rust-black.svg" alt="rust-black" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg">Link</a></td>
+      <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>mark/rust-white.svg</code></td>
+      <td><img src="mark/rust-white.svg" alt="rust-white" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg">Link</a></td>
+      <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/setuptools.svg</code></td>
       <td><img src="mark/setuptools.svg" alt="setuptools" width="100"/></td>
       <td><a href="https://setuptools.pypa.io/en/stable/artwork.html">Link</a></td>
