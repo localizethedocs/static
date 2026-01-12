@@ -132,6 +132,12 @@
       <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/prql.svg</code></td>
+      <td><img src="mark/prql.svg" alt="prql" width="100"/></td>
+      <td><a href="https://github.com/PRQL/prql-brand/blob/5413eb0f131719d92ea660beb68c5fac4701513c/logos/SVG/prql-logo.svg">Link</a></td>
+      <td>By <a href="https://prql-lang.org">The PRQL Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/pytest.svg</code></td>
       <td><img src="mark/pytest.svg" alt="pytest" width="100"/></td>
       <td><a href="https://github.com/pytest-dev/design/blob/43bbb9b7c2fd484a60c6922b903ca76796b3f45b/pytest_logo/pytest_logo_notext.svg">Link</a></td>
