@@ -89,6 +89,11 @@
       <td><a href="https://github.com/fatiando/logo">Link</a></td>
       <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
     </tr>
+      <td><code>mark/helix.svg</code></td>
+      <td><img src="mark/helix.svg" alt="helix" width="100"/></td>
+      <td><a href="https://github.com/helix-editor/helix/blob/efc4865c783e86812e34fd18ac333d5215dce708/logo.svg">Link</a></td>
+      <td>By <a href="https://github.com/jakenvac">Jake Langford</a>, licensed under <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL 2.0</a>.</td>
+    </tr>
     <tr>
       <td><code>mark/libuv.svg</code></td>
       <td><img src="mark/libuv.svg" alt="libuv" width="100"/></td>
