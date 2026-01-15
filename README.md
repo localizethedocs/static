@@ -51,7 +51,7 @@
       <td><code>mark/cmake.svg</code></td>
       <td><img src="mark/cmake.svg" alt="cmake" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Cmake.svg">Link</a></td>
-      <td>By <a href="https://cmake.org/">CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+      <td>By <a href="https://cmake.org/">The CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/conan.svg</code></td>
@@ -63,31 +63,31 @@
       <td><code>mark/editorconfig.svg</code></td>
       <td><img src="mark/editorconfig.svg" alt="editorconfig" width="100"/></td>
       <td><a href="https://github.com/editorconfig/editorconfig/blob/4e1fdff8e2c91bd59b5216368c1513a8f7abd5d6/assets/EditorConfig_Logo.svg">Link</a></td>
-      <td>By <a href="https://editorconfig.org/">EditorConfig Team</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
+      <td>By <a href="https://editorconfig.org/">The EditorConfig Team</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/emscripten.svg</code></td>
       <td><img src="mark/emscripten.svg" alt="emscripten" width="100"/></td>
       <td><a href="https://github.com/emscripten-core/emscripten/blob/93327152a04ced7889919a08d5255a4be84d200b/media/logo.svg">Link</a></td>
-      <td>By <a href="https://emscripten.org/">Emscripten Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+      <td>By <a href="https://emscripten.org/">The Emscripten Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>mark/flatpak.svg</code></td>
       <td><img src="mark/flatpak.svg" alt="flatpak" width="100"/></td>
       <td><a href="https://en.m.wikipedia.org/wiki/File:Flatpak_Logo.svg">Link</a></td>
-      <td>By <a href="https://flatpak.org/">Flatpak</a>, licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
+      <td>By <a href="https://flatpak.org/">The Flatpak Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/gdal.svg</code></td>
       <td><img src="mark/gdal.svg" alt="gdal" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:GDALLogoColor.svg">Link</a></td>
-      <td>By <a href="https://gdal.org/">GDAL Team</a>, licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.</td>
+      <td>By <a href="https://gdal.org/">The GDAL Team</a>, licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>mark/harmonica.svg</code></td>
       <td><img src="mark/harmonica.svg" alt="harmonica" width="100"/></td>
       <td><a href="https://github.com/fatiando/logo">Link</a></td>
-      <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
+      <td>By <a href="https://www.fatiando.org/">The Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
     </tr>
       <td><code>mark/helix.svg</code></td>
       <td><img src="mark/helix.svg" alt="helix" width="100"/></td>
@@ -134,7 +134,7 @@
       <td><code>mark/pooch.svg</code></td>
       <td><img src="mark/pooch.svg" alt="pooch" width="100"/></td>
       <td><a href="https://github.com/fatiando/logo">Link</a></td>
-      <td>By <a href="https://www.fatiando.org/">Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
+      <td>By <a href="https://www.fatiando.org/">The Fatiando Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/prql.svg</code></td>
@@ -146,7 +146,7 @@
       <td><code>mark/pytest.svg</code></td>
       <td><img src="mark/pytest.svg" alt="pytest" width="100"/></td>
       <td><a href="https://github.com/pytest-dev/design/blob/43bbb9b7c2fd484a60c6922b903ca76796b3f45b/pytest_logo/pytest_logo_notext.svg">Link</a></td>
-      <td>By <a href="https://pytest.org/">Pytest Team</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
+      <td>By <a href="https://pytest.org/">The Pytest Team</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/python.svg</code></td>
@@ -224,13 +224,13 @@
       <td><code>mark/sphinx-dark.svg</code></td>
       <td><img src="mark/sphinx-dark.svg" alt="sphinx-dark" width="100"/></td>
       <td><a href="https://github.com/sphinx-doc/sphinx/blob/8878bee000c85c118b9be4b31d5baf7e3f25cc5f/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
-      <td>By <a href="https://www.sphinx-doc.org/">Sphinx Team</a>, licensed under <a href="https://opensource.org/license/bsd-2-clause/">BSD 2-Clause</a>.</td>
+      <td>By <a href="https://www.sphinx-doc.org/">The Sphinx Team</a>, licensed under <a href="https://opensource.org/license/bsd-2-clause/">BSD 2-Clause</a>.</td>
     </tr>
     <tr>
       <td><code>mark/sphinx-white.svg</code></td>
       <td><img src="mark/sphinx-white.svg" alt="sphinx-white" width="100"/></td>
       <td><a href="https://github.com/sphinx-doc/sphinx/blob/8878bee000c85c118b9be4b31d5baf7e3f25cc5f/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
-      <td>By <a href="https://www.sphinx-doc.org/">Sphinx Team</a>, licensed under <a href="https://opensource.org/license/bsd-2-clause/">BSD 2-Clause</a>.</td>
+      <td>By <a href="https://www.sphinx-doc.org/">The Sphinx Team</a>, licensed under <a href="https://opensource.org/license/bsd-2-clause/">BSD 2-Clause</a>.</td>
     </tr>
   </tbody>
 </table>
