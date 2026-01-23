@@ -48,6 +48,12 @@
       <td>By Simon Peter, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/cargo.svg</code></td>
+      <td><img src="mark/cargo.svg" alt="cargo" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/cargo/issues/4733#issuecomment-1621732578">Link</a></td>
+      <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/cmake.svg</code></td>
       <td><img src="mark/cmake.svg" alt="cmake" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Cmake.svg">Link</a></td>
