@@ -48,6 +48,12 @@
       <td>By Simon Peter, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/asterinas.svg</code></td>
+      <td><img src="mark/asterinas.svg" alt="asterinas" width="100"/></td>
+      <td><a href="https://github.com/asterinas/asterinas-artwork/blob/8780d29fb48e1eaa7d18b9153598301c70896a2e/logo/en/Asterinas%20icon%20(in%20blue).svg">Link</a></td>
+      <td>"Asterinas" is a registered trademark. The Asterinas name and logo may be used to refer to the project, but may not be modified or used to imply endorsement or affiliation without prior permission.</td>
+    </tr>
+    <tr>
       <td><code>mark/cargo.svg</code></td>
       <td><img src="mark/cargo.svg" alt="cargo" width="100"/></td>
       <td><a href="https://github.com/rust-lang/cargo/issues/4733#issuecomment-1621732578">Link</a></td>
