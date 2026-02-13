@@ -29,6 +29,33 @@
   </tbody>
 </table>
 
+<h2 id="logo">Logo</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">File Name</th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">Preview</th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">Source</th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">Attribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>logo/redoxos-black.svg</code></td>
+      <td><img src="logo/redoxos-black.svg" alt="redoxos-black" width="200"/></td>
+      <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
+      <td>The Redox OS name and logo are <a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/TRADEMARK.md">trademarks of the Redox OS nonprofit</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/redoxos-white.svg</code></td>
+      <td><img src="logo/redoxos-white.svg" alt="redoxos-white" width="200"/></td>
+      <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
+      <td>The Redox OS name and logo are <a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/TRADEMARK.md">trademarks of the Redox OS nonprofit</a>.</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2 id="mark">Mark</h2>
 
 <table align="center">
