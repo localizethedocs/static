@@ -273,3 +273,48 @@
     </tr>
   </tbody>
 </table>
+
+<h2 id="social">Social</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">File Name</th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">Preview</th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">Source</th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center; vertical-align: middle;">Attribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>social/bluesky.png</code></td>
+      <td><img src="social/bluesky.png" alt="bluesky" width="100"/></td>
+      <td><a href="https://uxwing.com/bluesky-circle-color-icon/">Link</a></td>
+      <td>All brand logos/icons, provided by <a href="https://uxwing.com/">UXWing</a>, are trademarks of their respective owners/entities.</td>
+    </tr>
+    <tr>
+      <td><code>social/facebook.png</code></td>
+      <td><img src="social/facebook.png" alt="facebook" width="100"/></td>
+      <td><a href="https://uxwing.com/facebook-round-color-icon/">Link</a></td>
+      <td>All brand logos/icons, provided by <a href="https://uxwing.com/">UXWing</a>, are trademarks of their respective owners/entities.</td>
+    </tr>
+    <tr>
+      <td><code>social/mastodon.png</code></td>
+      <td><img src="social/mastodon.png" alt="mastodon" width="100"/></td>
+      <td><a href="https://uxwing.com/mastodon-round-icon/">Link</a></td>
+      <td>All brand logos/icons, provided by <a href="https://uxwing.com/">UXWing</a>, are trademarks of their respective owners/entities.</td>
+    </tr>
+    <tr>
+      <td><code>social/telegram.png</code></td>
+      <td><img src="social/telegram.png" alt="telegram" width="100"/></td>
+      <td><a href="https://uxwing.com/telegram-icon/">Link</a></td>
+      <td>All brand logos/icons, provided by <a href="https://uxwing.com/">UXWing</a>, are trademarks of their respective owners/entities.</td>
+    </tr>
+    <tr>
+      <td><code>social/x-twitter.png</code></td>
+      <td><img src="social/x-twitter.png" alt="x-twitter" width="100"/></td>
+      <td><a href="https://uxwing.com/x-social-media-round-icon/">Link</a></td>
+      <td>All brand logos/icons, provided by <a href="https://uxwing.com/">UXWing</a>, are trademarks of their respective owners/entities.</td>
+    </tr>
+  </tbody>
+</table>
