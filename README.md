@@ -111,6 +111,12 @@
       <td>By <a href="https://emscripten.org/">The Emscripten Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>mark/fish-shell.svg</code></td>
+      <td><img src="mark/fish-shell.svg" alt="fish-shell" width="100"/></td>
+      <td><a href="https://github.com/fish-shell/fish-site/blob/71a62f5c8e2b2aea0ffea05057cb2efdb8287f93/artwork/4.x/Terminal_Logo_CRT_4.svg">Link</a></td>
+      <td>The "fish-shell" and the fish logo are <a href="https://github.com/fish-shell/fish-site/blob/master/TRADEMARKS.md">trademarks of the fish-shell project</a>.</td>
+    </tr>
+    <tr>
       <td><code>mark/flatpak.svg</code></td>
       <td><img src="mark/flatpak.svg" alt="flatpak" width="100"/></td>
       <td><a href="https://en.m.wikipedia.org/wiki/File:Flatpak_Logo.svg">Link</a></td>
