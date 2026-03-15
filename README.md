@@ -42,6 +42,18 @@
   </thead>
   <tbody>
     <tr>
+      <td><code>logo/leptos-dark.svg</code></td>
+      <td><img src="logo/leptos-dark.svg" alt="leptos-dark" width="200"/></td>
+      <td><a href="https://github.com/leptos-rs/leptos/blob/8cb4263be49c706fc985fc7ee52f4a2fdb38de43/docs/logos/Leptos_logo_pref_dark_RGB.svg">Link</a></td>
+      <td>By <a href="https://leptos.dev/">the Leptos maintainers</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/leptos-light.svg</code></td>
+      <td><img src="logo/leptos-light.svg" alt="leptos-light" width="200"/></td>
+      <td><a href="https://github.com/leptos-rs/leptos/blob/8cb4263be49c706fc985fc7ee52f4a2fdb38de43/docs/logos/Leptos_logo_RGB.svg">Link</a></td>
+      <td>By <a href="https://leptos.dev/">the Leptos maintainers</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/redoxos-black.svg</code></td>
       <td><img src="logo/redoxos-black.svg" alt="redoxos-black" width="200"/></td>
       <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
