@@ -54,6 +54,12 @@
       <td>By <a href="https://leptos.dev/">the Leptos maintainers</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/numpy.svg</code></td>
+      <td><img src="logo/numpy.svg" alt="numpy" width="200"/></td>
+      <td><a href="https://github.com/numpy/numpy/blob/5033aa92db18221f78fcf9213bc64f409c5c82e4/branding/logo/primary/numpylogo.svg">Link</a></td>
+      <td>By <a href="https://github.com/isabela-pf/">Isabela Presedo-Floyd</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/redoxos-black.svg</code></td>
       <td><img src="logo/redoxos-black.svg" alt="redoxos-black" width="200"/></td>
       <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
