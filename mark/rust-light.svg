@@ -4,8 +4,11 @@
    height="400"
    width="400"
    id="svg39"
-   sodipodi:docname="rust-wht.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="rust-light.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="rust-light.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -31,9 +34,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="178.19091"
-     inkscape:cy="165.10943"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="117.20295"
+     inkscape:cy="199.22734"
      inkscape:window-width="1920"
      inkscape:window-height="980"
      inkscape:window-x="0"
@@ -59,8 +62,7 @@
   <g
      id="logo"
      transform="matrix(3.8095341,0,0,3.8095341,200,200)"
-     inkscape:label="Icon"
-     style="display:inline">
+     inkscape:label="Icon">
     <path
        id="r"
        transform="translate(0.5,0.5)"
@@ -68,14 +70,14 @@
        stroke-width="1"
        stroke-linejoin="round"
        d="M -9,-15 H 4 c 8,0 8,8 0,8 H -9 Z M -40,22 H 0 V 11 H -9 V 3 H 1 C 12,3 6,22 15,22 H 40 V 3 h -6 v 2 c 0,8 -9,7 -10,2 -1,-5 -5,-9 -6,-9 15,-8 6,-24 -6,-24 h -47 v 11 h 10 v 26 h -15 z"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+       style="display:inline" />
     <g
        id="gear"
        mask="url(#holes)"
        style="display:inline">
       <path
          id="circle1"
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:9;stroke-opacity:1"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:9"
          d="M 43,0 A 43,43 0 0 1 0,43 43,43 0 0 1 -43,0 43,43 0 0 1 0,-43 43,43 0 0 1 43,0 Z" />
       <g
          id="cogs"
@@ -85,8 +87,7 @@
            stroke="#000000"
            stroke-width="3"
            stroke-linejoin="round"
-           points="51,0 46,-3 46,3 "
-           style="display:inline;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+           points="46,3 51,0 46,-3 " />
         <use
            xlink:href="#cog"
            transform="rotate(11.25)"
@@ -221,8 +222,7 @@
            stroke="#000000"
            stroke-width="6"
            stroke-linejoin="round"
-           points="7,-42 -7,-42 0,-35 "
-           style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1" />
+           points="0,-35 7,-42 -7,-42 " />
         <use
            xlink:href="#mount"
            transform="rotate(72)"

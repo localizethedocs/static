@@ -242,15 +242,15 @@
       <td>By <a href="https://about.readthedocs.com/">Read the Docs</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
-      <td><code>mark/rust-black.svg</code></td>
-      <td><img src="mark/rust-black.svg" alt="rust-black" width="100"/></td>
-      <td><a href="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg">Link</a></td>
+      <td><code>mark/rust-dark.svg</code></td>
+      <td><img src="mark/rust-dark.svg" alt="rust-dark" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/rust-artwork/blob/6e11af7aa21a0022b813fa477330a74d5c4e47e2/logo/rust-logo.svg">Link</a></td>
       <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
-      <td><code>mark/rust-white.svg</code></td>
-      <td><img src="mark/rust-white.svg" alt="rust-white" width="100"/></td>
-      <td><a href="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg">Link</a></td>
+      <td><code>mark/rust-light.svg</code></td>
+      <td><img src="mark/rust-light.svg" alt="rust-light" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/rust-artwork/blob/6e11af7aa21a0022b813fa477330a74d5c4e47e2/logo/rust-logo.svg">Link</a></td>
       <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
