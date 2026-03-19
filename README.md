@@ -268,13 +268,13 @@
     <tr>
       <td><code>mark/solidity-dark.svg</code></td>
       <td><img src="mark/solidity-dark.svg" alt="solidity-dark" width="100"/></td>
-      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo.svg">Link</a></td>
+      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo-dark.svg">Link</a></td>
       <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/solidity-light.svg</code></td>
       <td><img src="mark/solidity-light.svg" alt="solidity-light" width="100"/></td>
-      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo-dark.svg">Link</a></td>
+      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo.svg">Link</a></td>
       <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
