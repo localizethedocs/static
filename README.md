@@ -42,6 +42,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><code>logo/asterinas.svg</code></td>
+      <td><img src="logo/asterinas.svg" alt="asterinas" width="200"/></td>
+      <td><a href="https://github.com/asterinas/asterinas-artwork/blob/8780d29fb48e1eaa7d18b9153598301c70896a2e/logo/en/Asterinas%20icon%20(in%20blue).svg">Link</a></td>
+      <td>"Asterinas" is a registered trademark. The Asterinas name and logo may be used to refer to the project, but may not be modified or used to imply endorsement or affiliation without prior permission.</td>
+    </tr>
+    <tr>
       <td><code>logo/leptos-dark.svg</code></td>
       <td><img src="logo/leptos-dark.svg" alt="leptos-dark" width="200"/></td>
       <td><a href="https://github.com/leptos-rs/leptos/blob/8cb4263be49c706fc985fc7ee52f4a2fdb38de43/docs/logos/Leptos_logo_pref_dark_RGB.svg">Link</a></td>
