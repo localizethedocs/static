@@ -77,6 +77,18 @@
       <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
       <td>The Redox OS name and logo are <a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/TRADEMARK.md">trademarks of the Redox OS nonprofit</a>.</td>
     </tr>
+    <tr>
+      <td><code>logo/solidity-dark.svg</code></td>
+      <td><img src="logo/solidity-dark.svg" alt="solidity-dark" width="200"/></td>
+      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo-dark.svg">Link</a></td>
+      <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/solidity-light.svg</code></td>
+      <td><img src="logo/solidity-light.svg" alt="solidity-light" width="200"/></td>
+      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo.svg">Link</a></td>
+      <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -270,18 +282,6 @@
       <td><img src="mark/sglang.svg" alt="sglang" width="100"/></td>
       <td><a href="https://github.com/sgl-project/sglang/blob/7a1f7fc5049d4fd5b3adc88fe48466fccbe676d8/assets/logo_square.svg">Link</a></td>
       <td>By <a href="https://github.com/sgl-project">The SGLang Team</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.</td>
-    </tr>
-    <tr>
-      <td><code>mark/solidity-dark.svg</code></td>
-      <td><img src="mark/solidity-dark.svg" alt="solidity-dark" width="100"/></td>
-      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo-dark.svg">Link</a></td>
-      <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
-    </tr>
-    <tr>
-      <td><code>mark/solidity-light.svg</code></td>
-      <td><img src="mark/solidity-light.svg" alt="solidity-light" width="100"/></td>
-      <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo.svg">Link</a></td>
-      <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/sphinx-dark.svg</code></td>
