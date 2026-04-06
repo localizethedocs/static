@@ -89,6 +89,12 @@
       <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo.svg">Link</a></td>
       <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
+    <tr>
+      <td><code>logo/syncthing.svg</code></td>
+      <td><img src="logo/syncthing.svg" alt="syncthing" width="200"/></td>
+      <td><a href="https://github.com/syncthing/docs/blob/4cac75af3268b94af0b6c5edc3ab3f1aec02ff46/_static/logo-horizontal.svg">Link</a></td>
+      <td>By <a href="https://github.com/calmh">Jakob Borg</a> and <a href="https://github.com/gillisig">Gilli Sigurdsson</a>, licensed under <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL 2.0</a>.</td>
+    </tr>
   </tbody>
 </table>
 
