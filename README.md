@@ -119,6 +119,18 @@
       <td><a href="https://github.com/syncthing/docs/blob/4cac75af3268b94af0b6c5edc3ab3f1aec02ff46/_static/logo-horizontal.svg">Link</a></td>
       <td>By <a href="https://github.com/calmh">Jakob Borg</a> and <a href="https://github.com/gillisig">Gilli Sigurdsson</a>, licensed under <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL 2.0</a>.</td>
     </tr>
+    <tr>
+      <td><code>logo/urllib3-dark.svg</code></td>
+      <td><img src="logo/urllib3-dark.svg" alt="urllib3-dark" width="200"/></td>
+      <td><a href="https://github.com/urllib3/urllib3/blob/993bcb778615116d910ae187c7bdab1389dbb240/docs/_static/dark-logo.svg">Link</a></td>
+      <td>Logo by <a href="https://github.com/ryanfeeley">Ryan Feeley</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/urllib3-light.svg</code></td>
+      <td><img src="logo/urllib3-light.svg" alt="urllib3-light" width="200"/></td>
+      <td><a href="https://github.com/urllib3/urllib3/blob/993bcb778615116d910ae187c7bdab1389dbb240/docs/_static/banner.svg">Link</a></td>
+      <td>Logo by <a href="https://github.com/ryanfeeley">Ryan Feeley</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
   </tbody>
 </table>
 
