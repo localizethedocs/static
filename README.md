@@ -48,6 +48,12 @@
       <td>"Asterinas" is a registered trademark. The Asterinas name and logo may be used to refer to the project, but may not be modified or used to imply endorsement or affiliation without prior permission.</td>
     </tr>
     <tr>
+      <td><code>logo/helix.svg</code></td>
+      <td><img src="logo/helix.svg" alt="helix" width="100"/></td>
+      <td><a href="https://github.com/helix-editor/helix/blob/efc4865c783e86812e34fd18ac333d5215dce708/logo.svg">Link</a></td>
+      <td>By <a href="https://github.com/jakenvac">Jake Langford</a>, licensed under <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL 2.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/leptos-dark.svg</code></td>
       <td><img src="logo/leptos-dark.svg" alt="leptos-dark" width="200"/></td>
       <td><a href="https://github.com/leptos-rs/leptos/blob/8cb4263be49c706fc985fc7ee52f4a2fdb38de43/docs/logos/Leptos_logo_pref_dark_RGB.svg">Link</a></td>
@@ -181,11 +187,6 @@
       <td><img src="mark/harmonica.svg" alt="harmonica" width="100"/></td>
       <td><a href="https://github.com/fatiando/logo">Link</a></td>
       <td>By <a href="https://www.fatiando.org/">The Fatianto Team</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</td>
-    </tr>
-      <td><code>mark/helix.svg</code></td>
-      <td><img src="mark/helix.svg" alt="helix" width="100"/></td>
-      <td><a href="https://github.com/helix-editor/helix/blob/efc4865c783e86812e34fd18ac333d5215dce708/logo.svg">Link</a></td>
-      <td>By <a href="https://github.com/jakenvac">Jake Langford</a>, licensed under <a href="https://www.mozilla.org/en-US/MPL/2.0/">MPL 2.0</a>.</td>
     </tr>
     <tr>
       <td><code>mark/libuv.svg</code></td>
