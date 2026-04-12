@@ -90,6 +90,18 @@
       <td>By <a href="https://github.com/isabela-pf/">Isabela Presedo-Floyd</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/prql-dark.svg</code></td>
+      <td><img src="logo/prql-dark.svg" alt="prql-dark" width="100"/></td>
+      <td><a href="https://github.com/PRQL/prql-brand/blob/5413eb0f131719d92ea660beb68c5fac4701513c/logos/SVG/prql-wordmark.svg">Link</a></td>
+      <td>By <a href="https://prql-lang.org">The PRQL Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/prql-light.svg</code></td>
+      <td><img src="logo/prql-light.svg" alt="prql-light" width="100"/></td>
+      <td><a href="https://github.com/PRQL/prql-brand/blob/5413eb0f131719d92ea660beb68c5fac4701513c/logos/SVG/prql-wordmark.svg">Link</a></td>
+      <td>By <a href="https://prql-lang.org">The PRQL Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/redoxos-black.svg</code></td>
       <td><img src="logo/redoxos-black.svg" alt="redoxos-black" width="200"/></td>
       <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
