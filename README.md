@@ -48,6 +48,18 @@
       <td>"Asterinas" is a registered trademark. The Asterinas name and logo may be used to refer to the project, but may not be modified or used to imply endorsement or affiliation without prior permission.</td>
     </tr>
     <tr>
+      <td><code>logo/cmake-dark.svg</code></td>
+      <td><img src="logo/cmake-dark.svg" alt="cmake-dark" width="100"/></td>
+      <td><a href="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo-1.svg">Link</a></td>
+      <td>By <a href="https://cmake.org/">The CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/cmake-light.svg</code></td>
+      <td><img src="logo/cmake-light.svg" alt="cmake-light" width="100"/></td>
+      <td><a href="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo-1.svg">Link</a></td>
+      <td>By <a href="https://cmake.org/">The CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/helix-dark.svg</code></td>
       <td><img src="logo/helix-dark.svg" alt="helix-dark" width="200"/></td>
       <td><a href="https://github.com/helix-editor/helix/blob/efc4865c783e86812e34fd18ac333d5215dce708/logo_dark.svg">Link</a></td>
