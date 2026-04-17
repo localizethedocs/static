@@ -84,6 +84,18 @@
       <td>By <a href="https://leptos.dev/">the Leptos maintainers</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/litestar-dark.svg</code></td>
+      <td><img src="logo/litestar-dark.svg" alt="litestar-dark" width="200"/></td>
+      <td><a href="https://github.com/litestar-org/branding/blob/4ba5f0c63bdf254eecb47dd587dac84d6bc6b129/assets/Branding%20-%20SVG%20-%20Transparent/Litestar%20-%20Banner%20-%20Inline%20-%20Dark.svg">Link</a></td>
+      <td>By <a href="https://litestar.dev/">The Litestar Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/litestar-light.svg</code></td>
+      <td><img src="logo/litestar-light.svg" alt="litestar-light" width="200"/></td>
+      <td><a href="https://github.com/litestar-org/branding/blob/4ba5f0c63bdf254eecb47dd587dac84d6bc6b129/assets/Branding%20-%20SVG%20-%20Transparent/Litestar%20-%20Banner%20-%20Inline%20-%20Light.svg">Link</a></td>
+      <td>By <a href="https://litestar.dev/">The Litestar Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/mlx-dark.svg</code></td>
       <td><img src="logo/mlx-dark.svg" alt="mlx-dark" width="200"/></td>
       <td><a href="https://github.com/ml-explore/mlx/blob/9ab3913567df16cac539dce7b4e5d569897a1c29/docs/logo/mlx_logo_dark.svg">Link</a></td>
