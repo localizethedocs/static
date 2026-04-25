@@ -167,6 +167,18 @@
       <td><a href="https://github.com/urllib3/urllib3/blob/993bcb778615116d910ae187c7bdab1389dbb240/docs/_static/banner.svg">Link</a></td>
       <td>Logo by <a href="https://github.com/ryanfeeley">Ryan Feeley</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
+    <tr>
+      <td><code>logo/vyper-dark.svg</code></td>
+      <td><img src="logo/vyper-dark.svg" alt="vyper-dark" width="200"/></td>
+      <td><a href="https://github.com/vyperlang/vyper-brand/blob/48d290917e06126fb4fe58827623d851b25e0106/assets/logos/vyper/landscape/vyper-logo-landscape-color-neg.svg">Link</a></td>
+      <td>By <a href="https://vyperlang.org/">The Vyper Team</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/vyper-light.svg</code></td>
+      <td><img src="logo/vyper-light.svg" alt="vyper-light" width="200"/></td>
+      <td><a href="https://github.com/vyperlang/vyper-brand/blob/48d290917e06126fb4fe58827623d851b25e0106/assets/logos/vyper/landscape/vyper-logo-landscape-color-pos.svg">Link</a></td>
+      <td>By <a href="https://vyperlang.org/">The Vyper Team</a>.</td>
+    </tr>
   </tbody>
 </table>
 
