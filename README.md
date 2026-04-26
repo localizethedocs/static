@@ -138,6 +138,18 @@
       <td>The Redox OS name and logo are <a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/TRADEMARK.md">trademarks of the Redox OS nonprofit</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/setuptools-dark.svg</code></td>
+      <td><img src="logo/setuptools-dark.svg" alt="setuptools-dark" width="100"/></td>
+      <td><a href="https://github.com/pypa/setuptools/blob/a1eec655bc40a92efdb86db38e361efef11d277e/docs/images/logo-inline.svg">Link</a></td>
+      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/setuptools-light.svg</code></td>
+      <td><img src="logo/setuptools-light.svg" alt="setuptools-light" width="100"/></td>
+      <td><a href="https://github.com/pypa/setuptools/blob/a1eec655bc40a92efdb86db38e361efef11d277e/docs/images/logo-inline.svg">Link</a></td>
+      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/solidity-dark.svg</code></td>
       <td><img src="logo/solidity-dark.svg" alt="solidity-dark" width="200"/></td>
       <td><a href="https://github.com/argotorg/solidity/blob/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo-dark.svg">Link</a></td>
