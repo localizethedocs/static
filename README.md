@@ -138,6 +138,18 @@
       <td>The Redox OS name and logo are <a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/TRADEMARK.md">trademarks of the Redox OS nonprofit</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/rust-dark.svg</code></td>
+      <td><img src="logo/rust-dark.svg" alt="rust-dark" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/www.rust-lang.org/blob/e951aa59a8bfa57bb7cc8af96214bfb886267c74/static/images/rust-social-wide-dark.svg">Link</a></td>
+      <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/rust-light.svg</code></td>
+      <td><img src="logo/rust-light.svg" alt="rust-light" width="100"/></td>
+      <td><a href="https://github.com/rust-lang/www.rust-lang.org/blob/e951aa59a8bfa57bb7cc8af96214bfb886267c74/static/images/rust-social-wide-light.svg">Link</a></td>
+      <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/setuptools-dark.svg</code></td>
       <td><img src="logo/setuptools-dark.svg" alt="setuptools-dark" width="100"/></td>
       <td><a href="https://github.com/pypa/setuptools/blob/a1eec655bc40a92efdb86db38e361efef11d277e/docs/images/logo-inline.svg">Link</a></td>
