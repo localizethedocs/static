@@ -192,6 +192,12 @@
       <td>Logo by <a href="https://github.com/ryanfeeley">Ryan Feeley</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/vtk.svg</code></td>
+      <td><img src="logo/vtk.svg" alt="vtk" width="200"/></td>
+      <td><a href="https://commons.wikimedia.org/wiki/File:Visualization_Toolkit_logo.svg">Link</a></td>
+      <td>By <a href="https://vtk.org/">The VTK Team</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/vyper-dark.svg</code></td>
       <td><img src="logo/vyper-dark.svg" alt="vyper-dark" width="200"/></td>
       <td><a href="https://github.com/vyperlang/vyper-brand/blob/48d290917e06126fb4fe58827623d851b25e0106/assets/logos/vyper/landscape/vyper-logo-landscape-color-neg.svg">Link</a></td>
