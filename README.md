@@ -84,6 +84,12 @@
       <td>By <a href="https://leptos.dev/">the Leptos maintainers</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/libuv.svg</code></td>
+      <td><img src="logo/libuv.svg" alt="libuv" width="200"/></td>
+      <td><a href="https://github.com/libuv/libuv/blob/a499b737bf58b076c0c51868a5095c7c29be7c32/img/logos.svg">Link</a></td>
+      <td>By <a href="https://github.com/saghul">Saúl Ibarra Corretgé</a> and <a href="https://github.com/indutny">Fedor Indutny</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/litestar-dark.svg</code></td>
       <td><img src="logo/litestar-dark.svg" alt="litestar-dark" width="200"/></td>
       <td><a href="https://github.com/litestar-org/branding/blob/4ba5f0c63bdf254eecb47dd587dac84d6bc6b129/assets/Branding%20-%20SVG%20-%20Transparent/Litestar%20-%20Banner%20-%20Inline%20-%20Dark.svg">Link</a></td>
