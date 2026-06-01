@@ -60,6 +60,12 @@
       <td>By <a href="https://cmake.org/">The CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/emscripten.svg</code></td>
+      <td><img src="logo/emscripten.svg" alt="emscripten" width="100"/></td>
+      <td><a href="https://github.com/emscripten-core/emscripten/blob/93327152a04ced7889919a08d5255a4be84d200b/media/logo.svg">Link</a></td>
+      <td>By <a href="https://emscripten.org/">The Emscripten Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/helix-dark.svg</code></td>
       <td><img src="logo/helix-dark.svg" alt="helix-dark" width="200"/></td>
       <td><a href="https://github.com/helix-editor/helix/blob/efc4865c783e86812e34fd18ac333d5215dce708/logo_dark.svg">Link</a></td>
