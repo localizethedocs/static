@@ -138,6 +138,18 @@
       <td>By <a href="https://prql-lang.org">The PRQL Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/pyodide-dark.svg</code></td>
+      <td><img src="logo/pyodide-dark.svg" alt="pyodide-dark" width="200"/></td>
+      <td><a href="https://github.com/pyodide/pyodide-artwork/blob/b407d76ce9f3e7d3171b40b21c8320fd791dcfa9/logo.svg">Link</a></td>
+      <td>By <a href="https://pyodide.org/">The Pyodide Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/pyodide-light.svg</code></td>
+      <td><img src="logo/pyodide-light.svg" alt="pyodide-light" width="200"/></td>
+      <td><a href="https://github.com/pyodide/pyodide-artwork/blob/b407d76ce9f3e7d3171b40b21c8320fd791dcfa9/logo.svg">Link</a></td>
+      <td>By <a href="https://pyodide.org/">The Pyodide Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/redoxos-black.svg</code></td>
       <td><img src="logo/redoxos-black.svg" alt="redoxos-black" width="200"/></td>
       <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
