@@ -138,6 +138,18 @@
       <td>By <a href="https://prql-lang.org">The PRQL Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/psutil-dark.svg</code></td>
+      <td><img src="logo/psutil-dark.svg" alt="psutil-dark" width="200"/></td>
+      <td><a href="https://github.com/giampaolo/psutil/blob/9b71a2750f8c4c40c88d2589e15214969821e229/docs/_static/images/logo-psutil-readme.svg">Link</a></td>
+      <td>By <a href="https://github.com/giampaolo">Giampaolo Rodola</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/psutil-light.svg</code></td>
+      <td><img src="logo/psutil-light.svg" alt="psutil-light" width="200"/></td>
+      <td><a href="https://github.com/giampaolo/psutil/blob/9b71a2750f8c4c40c88d2589e15214969821e229/docs/_static/images/logo-psutil-readme.svg">Link</a></td>
+      <td>By <a href="https://github.com/giampaolo">Giampaolo Rodola</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/pyodide-dark.svg</code></td>
       <td><img src="logo/pyodide-dark.svg" alt="pyodide-dark" width="200"/></td>
       <td><a href="https://github.com/pyodide/pyodide-artwork/blob/b407d76ce9f3e7d3171b40b21c8320fd791dcfa9/logo.svg">Link</a></td>
