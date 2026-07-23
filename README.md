@@ -186,6 +186,12 @@
       <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/scrapy.svg</code></td>
+      <td><img src="logo/scrapy.svg" alt="scrapy" width="200"/></td>
+      <td><a href="https://github.com/scrapy/scrapy/blob/7b4cf06b6e381b6210fe43bc94a1eb65b3db0583/docs/_static/logo.svg">Link</a></td>
+      <td>Scrapy is a <a href="https://www.scrapy.org/trademark/">trademark of Zyte Group Limited ('Zyte') in Ireland and other countries</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/setuptools-dark.svg</code></td>
       <td><img src="logo/setuptools-dark.svg" alt="setuptools-dark" width="100"/></td>
       <td><a href="https://github.com/pypa/setuptools/blob/a1eec655bc40a92efdb86db38e361efef11d277e/docs/images/logo-inline.svg">Link</a></td>
