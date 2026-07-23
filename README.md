@@ -251,6 +251,18 @@
       <td><a href="https://github.com/vyperlang/vyper-brand/blob/48d290917e06126fb4fe58827623d851b25e0106/assets/logos/vyper/landscape/vyper-logo-landscape-color-pos.svg">Link</a></td>
       <td>By <a href="https://vyperlang.org/">The Vyper Team</a>.</td>
     </tr>
+    <tr>
+      <td><code>logo/xlwings-dark.svg</code></td>
+      <td><img src="logo/xlwings-dark.svg" alt="xlwings-dark" width="200"/></td>
+      <td><a href="https://github.com/xlwings/xlwings/blob/7adba2ee18cc09fabfaf38da7421910c08cd6c02/docs/_static/logo-dark.svg">Link</a></td>
+      <td>xlwings is a registered brand of <a href="https://www.zoomeranalytics.com/">Zoomer Analytics GmbH</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/xlwings-light.svg</code></td>
+      <td><img src="logo/xlwings-light.svg" alt="xlwings-light" width="200"/></td>
+      <td><a href="https://github.com/xlwings/xlwings/blob/7adba2ee18cc09fabfaf38da7421910c08cd6c02/docs/_static/logo-light.svg">Link</a></td>
+      <td>xlwings is a registered brand of <a href="https://www.zoomeranalytics.com/">Zoomer Analytics GmbH</a>.</td>
+    </tr>
   </tbody>
 </table>
 
