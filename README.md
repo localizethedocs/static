@@ -174,6 +174,18 @@
       <td>The Redox OS name and logo are <a href="https://gitlab.redox-os.org/redox-os/redox/-/blob/master/TRADEMARK.md">trademarks of the Redox OS nonprofit</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/ros-dark.svg</code></td>
+      <td><img src="logo/ros-dark.svg" alt="ros-dark" width="100"/></td>
+      <td><a href="https://github.com/openrobotics/artwork/blob/4024191d62211c4d4fa024e9974dd372d92aa23a/ros_logo.svg">Link</a></td>
+      <td>ROS is a <a href="https://www.ros.org/imgs/TrademarkRulesAndGuidelines2022.pdf">trademark of Open Source Robotics Foundation</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/ros-light.svg</code></td>
+      <td><img src="logo/ros-light.svg" alt="ros-light" width="100"/></td>
+      <td><a href="https://github.com/openrobotics/artwork/blob/4024191d62211c4d4fa024e9974dd372d92aa23a/ros_logo.svg">Link</a></td>
+      <td>ROS is a <a href="https://www.ros.org/imgs/TrademarkRulesAndGuidelines2022.pdf">trademark of Open Source Robotics Foundation</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/rust-dark.svg</code></td>
       <td><img src="logo/rust-dark.svg" alt="rust-dark" width="100"/></td>
       <td><a href="https://github.com/rust-lang/www.rust-lang.org/blob/e951aa59a8bfa57bb7cc8af96214bfb886267c74/static/images/rust-social-wide-dark.svg">Link</a></td>
