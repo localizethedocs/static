@@ -150,6 +150,18 @@
       <td>By <a href="https://github.com/giampaolo">Giampaolo Rodola</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/pybamm-dark.svg</code></td>
+      <td><img src="logo/pybamm-dark.svg" alt="pybamm-dark" width="200"/></td>
+      <td><a href="https://github.com/pybamm-team/pybamm.org/blob/2c27409150feb960de7c85b6f10119b38f6712bf/static/images/pybamm_logo_whitetext.svg">Link</a></td>
+      <td>By <a href="https://pybamm.org/">The PyBaMM Team</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/pybamm-light.svg</code></td>
+      <td><img src="logo/pybamm-light.svg" alt="pybamm-light" width="200"/></td>
+      <td><a href="https://github.com/pybamm-team/pybamm.org/blob/2c27409150feb960de7c85b6f10119b38f6712bf/static/images/pybamm_logo.svg">Link</a></td>
+      <td>By <a href="https://pybamm.org/">The PyBaMM Team</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/pyodide-dark.svg</code></td>
       <td><img src="logo/pyodide-dark.svg" alt="pyodide-dark" width="200"/></td>
       <td><a href="https://github.com/pyodide/pyodide-artwork/blob/b407d76ce9f3e7d3171b40b21c8320fd791dcfa9/logo.svg">Link</a></td>
