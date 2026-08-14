@@ -210,6 +210,12 @@
       <td>By <a href="https://rust-lang.org">The Rust Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/scikit-build.svg</code></td>
+      <td><img src="logo/scikit-build.svg" alt="scikit-build" width="200"/></td>
+      <td><a href="https://github.com/scikit-build/scikit-build/blob/0cbfb0eeea06a697c3e40d8c561c5639ae0aa22f/docs/logo/scikit_build_logo.svg">Link</a></td>
+      <td>By <a href="https://scikit-build.org/">The Scikit-Build Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/scrapy.svg</code></td>
       <td><img src="logo/scrapy.svg" alt="scrapy" width="200"/></td>
       <td><a href="https://github.com/scrapy/scrapy/blob/7b4cf06b6e381b6210fe43bc94a1eb65b3db0583/docs/_static/logo.svg">Link</a></td>
