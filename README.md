@@ -72,6 +72,18 @@
       <td>By <a href="https://flatpak.org/">The Flatpak Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/gazebo-dark.svg</code></td>
+      <td><img src="logo/gazebo-dark.svg" alt="gazebo-dark" width="200"/></td>
+      <td><a href="https://github.com/gazebosim/docs/blob/61a04d3e01849518f062a591e633d32911159ed1/_static/images/logos/gazebo_horz_neg.svg">Link</a></td>
+      <td>Gazebo is a trademark of Open Source Robotics Foundation.</td>
+    </tr>
+    <tr>
+      <td><code>logo/gazebo-light.svg</code></td>
+      <td><img src="logo/gazebo-light.svg" alt="gazebo-light" width="200"/></td>
+      <td><a href="https://github.com/gazebosim/docs/blob/61a04d3e01849518f062a591e633d32911159ed1/_static/images/logos/gazebo_horz_pos.svg">Link</a></td>
+      <td>Gazebo is a trademark of Open Source Robotics Foundation.</td>
+    </tr>
+    <tr>
       <td><code>logo/helix-dark.svg</code></td>
       <td><img src="logo/helix-dark.svg" alt="helix-dark" width="200"/></td>
       <td><a href="https://github.com/helix-editor/helix/blob/efc4865c783e86812e34fd18ac333d5215dce708/logo_dark.svg">Link</a></td>
