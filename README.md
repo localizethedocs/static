@@ -264,6 +264,18 @@
       <td>By <a href="https://www.soliditylang.org/">The Solidity Authors</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/spack-dark.svg</code></td>
+      <td><img src="logo/spack-dark.svg" alt="spack-dark" width="200"/></td>
+      <td><a href="https://github.com/spack/spack/blob/3a0324fe1af3d6bb7c2d8c8a7640212763d15248/share/spack/logo/spack-logo-white-text.svg">Link</a></td>
+      <td>Spack is a <a href="https://www.linuxfoundation.org/legal/trademark-usage">trademark of Linux Foundation</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/spack-light.svg</code></td>
+      <td><img src="logo/spack-light.svg" alt="spack-light" width="200"/></td>
+      <td><a href="https://github.com/spack/spack/blob/3a0324fe1af3d6bb7c2d8c8a7640212763d15248/share/spack/logo/spack-logo-text.svg">Link</a></td>
+      <td>Spack is a <a href="https://www.linuxfoundation.org/legal/trademark-usage">trademark of Linux Foundation</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/syncthing.svg</code></td>
       <td><img src="logo/syncthing.svg" alt="syncthing" width="200"/></td>
       <td><a href="https://github.com/syncthing/docs/blob/4cac75af3268b94af0b6c5edc3ab3f1aec02ff46/_static/logo-horizontal.svg">Link</a></td>
