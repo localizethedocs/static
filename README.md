@@ -60,6 +60,18 @@
       <td>By <a href="https://cmake.org/">The CMake Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/conan-dark.svg</code></td>
+      <td><img src="logo/conan-dark.svg" alt="conan-dark" width="100"/></td>
+      <td><a href="https://github.com/conan-io/conan/blob/342f0391c096133f5775a9d7cf48a0e6f31ffd35/.github/conan2-logo-for-dark.svg">Link</a></td>
+      <td>By <a href="https://conan.io/">Conan.io</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/conan-light.svg</code></td>
+      <td><img src="logo/conan-light.svg" alt="conan-light" width="100"/></td>
+      <td><a href="https://github.com/conan-io/conan/blob/342f0391c096133f5775a9d7cf48a0e6f31ffd35/.github/conan2-logo-for-light.svg">Link</a></td>
+      <td>By <a href="https://conan.io/">Conan.io</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/emscripten.svg</code></td>
       <td><img src="logo/emscripten.svg" alt="emscripten" width="100"/></td>
       <td><a href="https://github.com/emscripten-core/emscripten/blob/93327152a04ced7889919a08d5255a4be84d200b/media/logo.svg">Link</a></td>
