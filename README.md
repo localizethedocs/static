@@ -204,6 +204,18 @@
       <td>By <a href="https://pyodide.org/">The Pyodide Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/python-dark.svg</code></td>
+      <td><img src="logo/python-dark.svg" alt="python-dark" width="200"/></td>
+      <td><a href="https://www.python.org/static/community_logos/python-logo-generic.svg">Link</a></td>
+      <td>The Python logo is a <a href="https://www.python.org/psf/trademarks/">trademark of the Python Software Foundation</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/python-light.svg</code></td>
+      <td><img src="logo/python-light.svg" alt="python-light" width="200"/></td>
+      <td><a href="https://www.python.org/static/community_logos/python-logo-generic.svg">Link</a></td>
+      <td>The Python logo is a <a href="https://www.python.org/psf/trademarks/">trademark of the Python Software Foundation</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/redoxos-black.svg</code></td>
       <td><img src="logo/redoxos-black.svg" alt="redoxos-black" width="200"/></td>
       <td><a href="https://gitlab.redox-os.org/redox-os/assets/-/blob/551fa4261e2369f6b2a040e0dbcada05480d10cd/logos/redox/vectorized_logo.svg">Link</a></td>
