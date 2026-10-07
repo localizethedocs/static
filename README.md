@@ -123,7 +123,7 @@
       <td><code>logo/libuv.svg</code></td>
       <td><img src="logo/libuv.svg" alt="libuv" width="200"/></td>
       <td><a href="https://github.com/libuv/libuv/blob/a499b737bf58b076c0c51868a5095c7c29be7c32/img/logos.svg">Link</a></td>
-      <td>By <a href="https://github.com/saghul">Saúl Ibarra Corretgé</a> and <a href="https://github.com/indutny">Fedor Indutny</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+      <td>By <a href="https://github.com/saghul">Saúl Ibarra Corretgé</a> and <a href="https://github.com/indutny">Fedor Indutny</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>logo/litestar-dark.svg</code></td>
@@ -255,7 +255,7 @@
       <td><code>logo/scikit-build.svg</code></td>
       <td><img src="logo/scikit-build.svg" alt="scikit-build" width="200"/></td>
       <td><a href="https://github.com/scikit-build/scikit-build/blob/0cbfb0eeea06a697c3e40d8c561c5639ae0aa22f/docs/logo/scikit_build_logo.svg">Link</a></td>
-      <td>By <a href="https://scikit-build.org/">The Scikit-Build Team</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+      <td>By <a href="https://scikit-build.org/">The Scikit-Build Team</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>logo/scrapy.svg</code></td>
@@ -267,13 +267,13 @@
       <td><code>logo/setuptools-dark.svg</code></td>
       <td><img src="logo/setuptools-dark.svg" alt="setuptools-dark" width="100"/></td>
       <td><a href="https://github.com/pypa/setuptools/blob/a1eec655bc40a92efdb86db38e361efef11d277e/docs/images/logo-inline.svg">Link</a></td>
-      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>logo/setuptools-light.svg</code></td>
       <td><img src="logo/setuptools-light.svg" alt="setuptools-light" width="100"/></td>
       <td><a href="https://github.com/pypa/setuptools/blob/a1eec655bc40a92efdb86db38e361efef11d277e/docs/images/logo-inline.svg">Link</a></td>
-      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+      <td>By <a href="https://github.com/abravalheri">Anderson Bravalheri</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>logo/solidity-dark.svg</code></td>
@@ -431,7 +431,7 @@
       <td><code>mark/libuv.svg</code></td>
       <td><img src="mark/libuv.svg" alt="libuv" width="100"/></td>
       <td><a href="https://github.com/libuv/libuv/blob/a499b737bf58b076c0c51868a5095c7c29be7c32/img/logos.svg">Link</a></td>
-      <td>By <a href="https://github.com/saghul">Saúl Ibarra Corretgé</a> and <a href="https://github.com/indutny">Fedor Indutny</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">MIT</a>.</td>
+      <td>By <a href="https://github.com/saghul">Saúl Ibarra Corretgé</a> and <a href="https://github.com/indutny">Fedor Indutny</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
     </tr>
     <tr>
       <td><code>mark/linux.svg</code></td>
