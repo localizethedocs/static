@@ -156,6 +156,12 @@
       <td>By <a href="https://github.com/isabela-pf/">Isabela Presedo-Floyd</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/pipx.svg</code></td>
+      <td><img src="logo/pipx.svg" alt="pipx" width="200"/></td>
+      <td><a href="https://github.com/pypa/pipx/blob/442568f431ce39f9f4cc09787ddbe4a558ac4659/docs/_static/logo.svg">Link</a></td>
+      <td>By <a href="https://github.com/asemorales">Ase Morales</a>, licensed under <a href="https://opensource.org/license/mit/">MIT</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/prql-dark.svg</code></td>
       <td><img src="logo/prql-dark.svg" alt="prql-dark" width="100"/></td>
       <td><a href="https://github.com/PRQL/prql-brand/blob/5413eb0f131719d92ea660beb68c5fac4701513c/logos/SVG/prql-wordmark.svg">Link</a></td>
