@@ -150,6 +150,18 @@
       <td>MLX logo © 2023 Apple Inc. MLX is an open-source project maintained by <a href="https://github.com/ml-explore/mlx">Apple Machine Learning Research</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/nixos-dark.svg</code></td>
+      <td><img src="logo/nixos-dark.svg" alt="nixos-dark" width="100"/></td>
+      <td><a href="https://brand.nixos.org/logos/nixos-logo-default-gradient-white-regular-horizontal-recommended.svg">Link</a></td>
+      <td>"NixOS Logo" by <a href="https://github.com/simon-frankau">Simon Frankau</a>, <a href="https://github.com/timbertson">Tim Cuthbertson</a>, and <a href="https://github.com/djacu">Daniel Baker</a> (maintained by the <a href="https://nixos.org/community/teams/marketing/">NixOS Marketing Team</a>), from <a href="https://github.com/NixOS/branding">nixos/branding</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/nixos-light.svg</code></td>
+      <td><img src="logo/nixos-light.svg" alt="nixos-light" width="100"/></td>
+      <td><a href="https://brand.nixos.org/logos/nixos-logo-default-gradient-black-regular-horizontal-recommended.svg">Link</a></td>
+      <td>"NixOS Logo" by <a href="https://github.com/simon-frankau">Simon Frankau</a>, <a href="https://github.com/timbertson">Tim Cuthbertson</a>, and <a href="https://github.com/djacu">Daniel Baker</a> (maintained by the <a href="https://nixos.org/community/teams/marketing/">NixOS Marketing Team</a>), from <a href="https://github.com/NixOS/branding">nixos/branding</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/numpy.svg</code></td>
       <td><img src="logo/numpy.svg" alt="numpy" width="200"/></td>
       <td><a href="https://github.com/numpy/numpy/blob/5033aa92db18221f78fcf9213bc64f409c5c82e4/branding/logo/primary/numpylogo.svg">Link</a></td>
