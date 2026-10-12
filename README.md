@@ -198,6 +198,18 @@
       <td>By <a href="https://pybamm.org/">The PyBaMM Team</a>, licensed under <a href="https://opensource.org/license/bsd-3-clause/">BSD 3-Clause</a>.</td>
     </tr>
     <tr>
+      <td><code>logo/pygmt-dark.svg</code></td>
+      <td><img src="logo/pygmt-dark.svg" alt="pygmt-dark" width="200"/></td>
+      <td><a href="https://github.com/GenericMappingTools/pygmt/blob/3fd34d1afd9efd92d44848e9d320badb7c3ef1b1/pygmt/src/pygmtlogo.py">Link</a></td>
+      <td>By <a href="https://github.com/sfrooti">Sfurti</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed/">CC BY 4.0</a>, modified from original by <a href="https://www.pygmt.org/v0.19.0/team.html">The PyGMT Team</a>.</td>
+    </tr>
+    <tr>
+      <td><code>logo/pygmt-light.svg</code></td>
+      <td><img src="logo/pygmt-light.svg" alt="pygmt-light" width="200"/></td>
+      <td><a href="https://github.com/GenericMappingTools/pygmt/blob/3fd34d1afd9efd92d44848e9d320badb7c3ef1b1/pygmt/src/pygmtlogo.py">Link</a></td>
+      <td>By <a href="https://github.com/sfrooti">Sfurti</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed/">CC BY 4.0</a>, modified from original by <a href="https://www.pygmt.org/v0.19.0/team.html">The PyGMT Team</a>.</td>
+    </tr>
+    <tr>
       <td><code>logo/pyodide-dark.svg</code></td>
       <td><img src="logo/pyodide-dark.svg" alt="pyodide-dark" width="200"/></td>
       <td><a href="https://github.com/pyodide/pyodide-artwork/blob/b407d76ce9f3e7d3171b40b21c8320fd791dcfa9/logo.svg">Link</a></td>
